@@ -16,6 +16,7 @@ dgraph部分:<br>
 ~/KnowledgeGraph/ 下：<br>
 build_Dgraph 中的指令用于构建dgraph<br>
 其他dgraph介绍见ppt<br>
-
-
+<br>
+天眼查及gsxt汉字验证码的破解思路：
+其实只需要做一个汉字的识别，识别出来之后直接各种排列在百度中搜一搜，找出来所得结果数量最多的一个，按照这个顺序输入验证码即可。
 </p>
