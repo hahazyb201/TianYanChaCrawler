@@ -1,0 +1,22 @@
+{
+	set{
+	    _:person <name> "钟燕翔".
+	    _:company <name> "大埔恒丰达实业有限公司" .
+	    _:company <capital> "680000.0".
+	    _:company <currency> "人民币".
+	    _:company <registrationTime> "2013-06-24".
+	    _:company <phone> "0753-5858518".
+	    _:company <email> "1461070451@qq.com".
+	    _:person <aschief> _:company.
+	}
+	set{
+	    _:person <name> "吴锡盾".
+	    _:company <name> "广东天际电器股份有限公司" .
+	    _:company <capital> "452179983.0".
+	    _:company <currency> "人民币".
+	    _:company <registrationTime> "1996-03-30".
+	    _:company <phone> "0754-88118888".
+	    _:company <email> "tonze@tonze.com".
+	    _:person <aschief> _:company.
+	}
+}
